@@ -1,0 +1,9 @@
+git init 
+git add .
+git commit -m 'commit'
+git remote add + 仓库名 + 连接地址
+git push -u 仓库名 master 
+验证仓库是否添加 git remote -v 
+如果你想删除YYY仓库，可以用" git remote remove YYY "（git remote remove 仓库名）。
+如果你想删除YYY仓库，可以用" git remote remove YYY "（git remote remove 仓库名）。
+
