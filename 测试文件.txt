@@ -6,4 +6,5 @@ git push -u 仓库名 master
 验证仓库是否添加 git remote -v 
 如果你想删除YYY仓库，可以用" git remote remove YYY "（git remote remove 仓库名）。
 如果你想删除YYY仓库，可以用" git remote remove YYY "（git remote remove 仓库名）。
-
+1、先输入 git remote rm origin
+2、再输入 git remote add origin**************
